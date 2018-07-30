@@ -2,11 +2,12 @@
 
 Contains scripts that help with HOOMD-related things.
 
-## PlotXML.m
+## plotXML.m
 
 Plots coordinates and bonds in a HOOMD XML file.
 
-Usage: `PlotXML(filename)`
-Example: `PlotXML('FabPolymer.xml')` displays the example frame shown below.
+Usage: `plotXML(filename)`
+
+Example: `plotXML('FabPolymer.xml')` displays the example frame shown below.
 
 ![Fab Polymer](FabPolymer.png)
